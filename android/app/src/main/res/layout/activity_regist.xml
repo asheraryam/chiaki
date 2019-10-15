@@ -127,7 +127,7 @@
                     android:layout_height="wrap_content"
                     android:inputType="textNoSuggestions|textVisiblePassword"
                     android:maxLines="1"
-                    android:text="test"/>
+                    android:text="ol4ojIcuUCs="/>
             </com.google.android.material.textfield.TextInputLayout>
 
             <com.google.android.material.textview.MaterialTextView
